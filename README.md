@@ -6,7 +6,7 @@
 
 [![MacSearch Preview](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/macsearch_hp.png)](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/macsearch_hp.png)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+**[Download Extension](https://github.com/darperry99/MacSearch.safariextension/blob/master/MacSearch.safariextz?raw=true)**
 
 ## Status
 
