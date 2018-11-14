@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![MacSearch Preview](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/macsearch_hp.png)](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/macsearch_hp.png)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
