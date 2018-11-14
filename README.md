@@ -1,6 +1,6 @@
 # [MacSearch]
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+[MacSearch](https://github.com/darperry99/MacSearch.safariextension/blob/master/MacSearch.safariextz?raw=true) is a safari extension, enable the user to choose his default search provider from a dropdownlist near the omnibar.
 
 ## Preview
 
@@ -18,11 +18,8 @@
 
 ## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/freelancer/)
-* Install via npm: `npm i startbootstrap-freelancer`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-freelancer)
+To download this extension, click the link bellow:
+* [Download the latest release of the MacSearch Extension](https://github.com/darperry99/MacSearch.safariextension/blob/master/MacSearch.safariextz?raw=true)
 
 ## Usage
 
