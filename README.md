@@ -1,12 +1,12 @@
-# [MacSearch]
+# [SearchMi]
 
-[MacSearch](https://github.com/darperry99/MacSearch.safariextension/blob/master/MacSearch.safariextz?raw=true) is a safari extension, enable the user to choose his default search provider from a dropdownlist near the omnibar.
+[SearchMi](https://github.com/darperry99/SearchMi.safariextension/blob/master/SearchMi.safariextz?raw=true) is a safari extension, enable the user to choose his default search provider from a dropdownlist near the omnibar.
 
 ## Preview
 
-[![MacSearch Preview](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/macsearch_hp.png)](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/macsearch_hp.png)
+[![SearchMi Preview](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/SearchMi_hp.png)](https://raw.githubusercontent.com/darperry99/darperry99.github.io/master/img/SearchMi_hp.png)
 
-**[Download Extension](https://github.com/darperry99/MacSearch.safariextension/blob/master/MacSearch.safariextz?raw=true)**
+**[Download Extension](https://github.com/darperry99/SearchMi.safariextension/blob/master/SearchMi.safariextz?raw=true)**
 
 ## Status
 
@@ -19,7 +19,7 @@
 ## Download and Installation
 
 To download this extension, click the link bellow:
-* [Download the latest release of the MacSearch Extension](https://github.com/darperry99/MacSearch.safariextension/blob/master/MacSearch.safariextz?raw=true)
+* [Download the latest release of the SearchMi Extension](https://github.com/darperry99/SearchMi.safariextension/blob/master/SearchMi.safariextz?raw=true)
 
 ## Usage
 
@@ -31,7 +31,7 @@ The extention will add a toolbar button that enable's changing the default searc
 
 ## About
 
-MacSearch extension is an open source library. All of the sources are released under the MIT license, which means you can use them for any purpose, even for commercial projects ;-).
+SearchMi extension is an open source library. All of the sources are released under the MIT license, which means you can use them for any purpose, even for commercial projects ;-).
 
 
-MacSearch was created by and is maintained by **[darperry99]()**.
+SearchMi was created by and is maintained by **[darperry99]()**.
